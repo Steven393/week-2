@@ -186,7 +186,7 @@ namespace COMP003A.LectureActivity2
             compoundAssignmentOperator *= 4; // The equivalent of  compoundAssignmentOperator = compoundAssignmentOperator * 4; (a is 12 afterthis line runs.)
             compoundAssignmentOperator /= 2; // The equivalent of compoundAssignmentOperator = compoundAssignmentOperator / 2; (a is 6 afterthis line runs.)
             compoundAssignmentOperator %= 2; // The equivalent of compoundAssignmentOperator = compoundAssignmentOperator % 2; (a is 0 afterthis line runs.)
-
+            //
 
             /* increment and decrement operators */
             int incrementDecrementOperators = 0;
